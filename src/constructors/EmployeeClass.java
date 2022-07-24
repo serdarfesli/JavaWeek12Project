@@ -7,6 +7,7 @@ public class EmployeeClass {
    public double salary;
 
    public EmployeeClass() {
+      salary=10000;
    }
    public EmployeeClass(String name) {
       this.name = name;
